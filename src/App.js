@@ -52,7 +52,7 @@ function Home() {
             <br/>
             <div style={{textAlign: "center"}}>
 
-            <iframe title="box" src="https://app.box.com/embed/s/ux61e9fl5nv887e9xdsxp8aop5rcbyeg?sortColumn=date&view=list" width="98%" height="600" frameBorder="0" allowFullScreen />
+            <iframe title="box" src="https://app.box.com/folder/0" width="98%" height="600" frameBorder="0" allowFullScreen />
             </div>
       </div>
     </div>
@@ -76,7 +76,7 @@ function Page2() {
             <br/>
             <div style={{textAlign: "center"}}>
 
-            <iframe title="box" src="https://app.box.com/embed/s/ezhi1pxzknox7z88rat2r2t0n2dqcznc?sortColumn=date&view=list" width="98%" height="600" frameBorder="0" allowFullScreen />
+            <iframe title="box" src="https://app.box.com/folder/0" width="98%" height="600" frameBorder="0" allowFullScreen />
             </div>
       </div>
       </div>

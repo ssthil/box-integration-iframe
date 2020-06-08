@@ -58,6 +58,18 @@ nav ul li{
   padding: 20px;
 }
 
+.header a:hover {
+  float: left;
+  color: rgb(64, 156, 248);
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 15px;
+  padding: 20px;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

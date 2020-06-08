@@ -39,9 +39,6 @@ function Home() {
   return (
     <div>
       <div className="wrapper">
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae quasi repudiandae, tempora fugiat quas sequi
-            dignissimos impedit necessitatibus quaerat veritatis alias accusamus similique autem deserunt eligendi harum est
-            quos quae!</p>
         <h2>Page 1 - iframe - single note</h2>
     
         <p>Narrow screen devices (e.g. mobiles) render pages in a virtual window or viewport, which is usually wider than
@@ -52,7 +49,7 @@ function Home() {
             <br/>
             <div style={{textAlign: "center"}}>
 
-            <iframe title="box" src="https://app.box.com/embed/s/ux61e9fl5nv887e9xdsxp8aop5rcbyeg?sortColumn=date&view=list" width="98%" height="600" frameBorder="0" allowFullScreen />
+            <iframe title="box" src="https://app.box.com/embed/s/ux61e9fl5nv887e9xdsxp8aop5rcbyeg?sortColumn=date&view=list" width="70%" height="600" frameBorder="0" allowFullScreen />
             </div>
       </div>
     </div>
@@ -63,9 +60,6 @@ function Page2() {
   return(
     <div>
       <div className="wrapper">
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae quasi repudiandae, tempora fugiat quas sequi
-            dignissimos impedit necessitatibus quaerat veritatis alias accusamus similique autem deserunt eligendi harum est
-            quos quae!</p>
         <h2>Page 2 - iframe - different folder</h2>
     
         <p>Narrow screen devices (e.g. mobiles) render pages in a virtual window or viewport, which is usually wider than
@@ -76,7 +70,7 @@ function Page2() {
             <br/>
             <div style={{textAlign: "center"}}>
 
-            <iframe title="box" src="https://app.box.com/embed/s/ezhi1pxzknox7z88rat2r2t0n2dqcznc?sortColumn=date&view=list" width="98%" height="600" frameBorder="0" allowFullScreen />
+            <iframe title="box" src="https://app.box.com/embed/s/ezhi1pxzknox7z88rat2r2t0n2dqcznc?sortColumn=date&view=list" width="70%" height="600" frameBorder="0" allowFullScreen />
             </div>
       </div>
       </div>

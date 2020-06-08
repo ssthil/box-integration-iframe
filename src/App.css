@@ -28,6 +28,36 @@
   color: #61dafb;
 }
 
+body {
+  background-color:rgb(224, 226, 230);
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 0;
+  padding: 10px;
+}
+.header {
+  height: 60px;
+  background-color: rgb(52, 51, 59);
+  margin: 0;
+  border-bottom: 1px solid #333;
+  color:#cbd4e4;
+}
+.wrapper {
+  padding: 30px 20px;
+  background-color:#fff;
+}
+nav ul li{
+  list-style: none;
+}
+.header a {
+  float: left;
+  color: rgb(216, 220, 224);
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 15px;
+  padding: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

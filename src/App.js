@@ -61,7 +61,7 @@ function Home() {
     
             <div style={{textAlign: "center"}}>
 
-            <iframe title="box" src="https://app.box.com/embed/folder/115287799972?sortColumn=date&view=list" width="70%" height="600" frameBorder="0" allowFullScreen />
+            <iframe title="box" src="https://app.box.com/embed/folder/0?sortColumn=date&view=list" width="70%" height="600" frameBorder="0" allowFullScreen />
             </div>
       </div>
     </div>
